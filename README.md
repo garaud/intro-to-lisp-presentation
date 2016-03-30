@@ -18,7 +18,8 @@ Some links are not quoted in the presentation but were mentionned during the tal
 
 * [CLWiki](http://www.cliki.net/cl-wiki): the Common Lisp Wiki
 * [Make a Lisp](https://github.com/kanaka/mal): make your own Lisp in 11 steps
-
+* [Slime](https://common-lisp.net/project/slime/): a Common Lisp development environment
+  with Emacs
 
 ### pgloader
 
