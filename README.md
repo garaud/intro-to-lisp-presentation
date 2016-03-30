@@ -9,12 +9,15 @@ presentation with [reveal.js](https://github.com/hakimel/reveal.js/)
 
 You can also find the slides on Slideshare: [(Gentle) Introduction to Lisp](http://fr.slideshare.net/jazzydag/gentle-introduction-to-lisp)
 
+
+[live.lisp](./live.lisp): snippets of code showed during the talk
+
 ## Links and Resources
 
 Some links are not quoted in the presentation but were mentionned during the talk.
 
 * [CLWiki](http://www.cliki.net/cl-wiki): the Common Lisp Wiki
-* [Make a Lisp](https://github.com/kanaka/mal)
+* [Make a Lisp](https://github.com/kanaka/mal): make your own Lisp in 11 steps
 
 
 ### pgloader
@@ -39,7 +42,7 @@ Some links are not quoted in the presentation but were mentionned during the tal
 ### Practical Common Lisp
 
 * [Online book](http://www.gigamonkeys.com/book/)
-* [Practical Database][http://www.gigamonkeys.com/book/practical-a-simple-database.html]
+* [Practical Database](http://www.gigamonkeys.com/book/practical-a-simple-database.html)
 * [Building a Unit Test Framework in 26 lines](http://www.gigamonkeys.com/book/practical-building-a-unit-test-framework.html)
 * [A Spam Filter](http://www.gigamonkeys.com/book/practical-a-spam-filter.html)
 * [A MP3 Database](http://www.gigamonkeys.com/book/practical-an-mp3-database.html)
@@ -47,7 +50,7 @@ Some links are not quoted in the presentation but were mentionned during the tal
 ### SICP
 
 * [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/)
-  freely available
+  freely available (Scheme)
 * [SICP Distilled](http://www.sicpdistilled.com/) in Clojure
 
 ### Others
